@@ -28,7 +28,3 @@ format = '\([$symbol$branch]($style)\)'
 format = '(\[[$modified$staged]($style)\])'
 modified = '*'
 
-[kubernetes]
-format = '\(k8s:[$context( \($namespace\))]($style)\) '
-style = 'white'
-disabled = false
